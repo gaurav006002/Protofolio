@@ -40,7 +40,7 @@ import newtonschoolLogo from './assets/company_logo/newtonschool_logo.png';
 
 // Education Section Logo's
 import glaLogo from './assets/education_logo/gla_logo.png';
-import bsaLogo from './assets/education_logo/akg.jpeg';
+import bsaLogo from './assets/education_logo/Akg.jpeg';
 import vpsLogo from './assets/education_logo/Surmount_logo.jpeg';
 
 // Project Section Logo's
