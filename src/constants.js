@@ -212,7 +212,7 @@ export const SkillsInfo = [
       id: 0,
       title: "Ed-tech Platform",
       description:
-        "Overview:EduConnect is a full-stack education platform designed to bridge the gap between students and educators. Built with a robust frontend and scalable backend, it enables students to seamlessly explore, purchase, and enroll in online courses, while offering educators a personalized dashboard to manage their content and reach a wider audience.Key Features:🧑‍🎓 Student Experience: Smooth course browsing, secure purchase system, and instant course enrollment.👩‍🏫 Educator Dashboard: Easy course creation and account management for instructors.💳 Integrated Payments: Secure and reliable payment gateway support for course purchases.🔐 Authentication System: Clean and secure login/signup flow with user role management.📱 Responsive Design: Optimized for both desktop and mobile.",
+        "Overview:EduConnect is a full-stack education platform designed to bridge the gap between students and educators. Built with a robust frontend and scalable backend, it enables students to seamlessly explore, purchase, and enroll in online courses, while offering educators a personalized dashboard to manage their content and reach a wider audience.Key Features:🧑‍🎓 Student Experience,👩‍🏫 Educator Dashboard,💳 Integrated Payments,🔐 Authentication System ,📱 Responsive Design",
       image: studynotion,
       tags: ["React JS", "Node.js", "MongoDB", "Express", "HTML", "CSS", "JavaScript"],
       github: "",
@@ -221,7 +221,7 @@ export const SkillsInfo = [
     {
       id: 1,
       title: "An Freelancing Platform",
-      description:"FreelanceHub is a full-featured freelancing platform designed to connect clients with talented freelancers across various domains. With dedicated user roles and intuitive workflows, the platform provides a seamless experience from job posting to project completion.Key Features:🧑‍💼 Client Portal: Post jobs, review proposals, hire freelancers, and manage ongoing projects with ease.🧑‍🔧 Freelancer Dashboard: Create a professional profile, browse job listings, submit proposals, and track earnings.🔐 User Authentication: Role-based login/signup system ensuring secure and personalized access.📨 Messaging System: Real-time communication between clients and freelancers for project clarity.📱 Fully Responsive Design: Optimized for smooth performance across devices.",
+      description:"FreelanceHub is a full-featured freelancing platform designed to connect clients with talented freelancers across various domains. With dedicated user roles and intuitive workflows, the platform provides a seamless experience from job posting to project completion.Key Features:🧑‍💼 Client Portal,🧑‍🔧 Freelancer Dashboard ,🔐 User Authentication ,📨 Messaging System ,📱 Fully Responsive Design",
       image: freelancing,
       tags: ["React JS", "Node.js", "MongoDB", "Express", "HTML", "CSS", "JavaScript"],
       github: "",
