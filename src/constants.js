@@ -1,27 +1,27 @@
 // Skills Section Logo's
 import htmlLogo from './assets/tech_logo/html.png';
 import cssLogo from './assets/tech_logo/css.png';
-import sassLogo from './assets/tech_logo/sass.png';
+// import sassLogo from './assets/tech_logo/sass.png';
 import javascriptLogo from './assets/tech_logo/javascript.png';
 import reactjsLogo from './assets/tech_logo/reactjs.png';
-import angularLogo from './assets/tech_logo/angular.png';
-import reduxLogo from './assets/tech_logo/redux.png';
-import nextjsLogo from './assets/tech_logo/nextjs.png';
+// import angularLogo from './assets/tech_logo/angular.png';
+// import reduxLogo from './assets/tech_logo/redux.png';
+// import nextjsLogo from './assets/tech_logo/nextjs.png';
 import tailwindcssLogo from './assets/tech_logo/tailwindcss.png';
-import gsapLogo from './assets/tech_logo/gsap.png';
-import materialuiLogo from './assets/tech_logo/materialui.png';
-import bootstrapLogo from './assets/tech_logo/bootstrap.png';
-import springbootLogo from './assets/tech_logo/springboot.png';
+// import gsapLogo from './assets/tech_logo/gsap.png';
+// import materialuiLogo from './assets/tech_logo/materialui.png';
+// import bootstrapLogo from './assets/tech_logo/bootstrap.png';
+// import springbootLogo from './assets/tech_logo/springboot.png';
 import nodejsLogo from './assets/tech_logo/nodejs.png';
 import expressjsLogo from './assets/tech_logo/express.png';
 import mysqlLogo from './assets/tech_logo/mysql.png';
 import mongodbLogo from './assets/tech_logo/mongodb.png';
-import firebaseLogo from './assets/tech_logo/firebase.png';
+// import firebaseLogo from './assets/tech_logo/firebase.png';
 import cLogo from './assets/tech_logo/c.png';
 import cppLogo from './assets/tech_logo/cpp.png';
 import javaLogo from './assets/tech_logo/java.png';
 import pythonLogo from './assets/tech_logo/python.png';
-import typescriptLogo from './assets/tech_logo/typescript.png';
+//import typescriptLogo from './assets/tech_logo/typescript.png';
 import gitLogo from './assets/tech_logo/git.png';
 import githubLogo from './assets/tech_logo/github.png';
 import vscodeLogo from './assets/tech_logo/vscode.png';
@@ -29,17 +29,17 @@ import postmanLogo from './assets/tech_logo/postman.png';
 import mcLogo from './assets/tech_logo/mc.png';
 import figmaLogo from './assets/tech_logo/figma.png';
 import netlifyLogo from './assets/tech_logo/netlify.png';
-import vercelLogo from './assets/tech_logo/vercel.png';
-import postgreLogo from './assets/tech_logo/postgre.png';
-import csharpLogo from './assets/tech_logo/csharp.png';
+// import vercelLogo from './assets/tech_logo/vercel.png';
+// import postgreLogo from './assets/tech_logo/postgre.png';
+// import csharpLogo from './assets/tech_logo/csharp.png';
 
 // Experience Section Logo's
-import webverseLogo from './assets/company_logo/webverse_logo.png';
-import agcLogo from './assets/company_logo/agc_logo.png';
-import newtonschoolLogo from './assets/company_logo/newtonschool_logo.png';
+// import webverseLogo from './assets/company_logo/webverse_logo.png';
+// import agcLogo from './assets/company_logo/agc_logo.png';
+// import newtonschoolLogo from './assets/company_logo/newtonschool_logo.png';
 
 // Education Section Logo's
-import glaLogo from './assets/education_logo/gla_logo.png';
+// import glaLogo from './assets/education_logo/gla_logo.png';
 import bsaLogo from './assets/education_logo/Akg.jpeg';
 import vpsLogo from './assets/education_logo/Surmount_logo.jpeg';
 
@@ -50,9 +50,9 @@ import Shoping from './assets/work_logo/Shoping.jpeg';
 import passwordgenerator from './assets/work_logo/Passwordgenerator.jpeg';
 import tictactoe from './assets/work_logo/tic-tac-toe.jpeg';
 import weatherapi from './assets/work_logo/weatherapi.jpeg';
-import cmLogo from './assets/work_logo/cm.png';
-import imagesearchLogo from './assets/work_logo/image_search.png';
-import removebgLogo from './assets/work_logo/remove_bg.png';
+// import cmLogo from './assets/work_logo/cm.png';
+// import imagesearchLogo from './assets/work_logo/image_search.png';
+// import removebgLogo from './assets/work_logo/remove_bg.png';
 
 
 export const SkillsInfo = [
@@ -115,7 +115,7 @@ export const SkillsInfo = [
   export const experiences = [
     {
       id: 0,
-      img: webverseLogo,
+      img: null,
       role: "Fullstack Developer",
       company: "Webverse Digital",
       date: "April 2024 - Present",
@@ -135,7 +135,7 @@ export const SkillsInfo = [
     },
     {
       id: 1,
-      img: agcLogo,
+      img: null,
       role: "Fullstack Engineer",
       company: "Agumentik Group of Companies",
       date: "July 2023 - March 2024",
@@ -152,7 +152,7 @@ export const SkillsInfo = [
     },
     {
       id: 2,
-      img: newtonschoolLogo,
+      img: null,
       role: "Frontend Intern",
       company: "Newton School",
       date: "September 2021 - August 2022",
@@ -208,24 +208,15 @@ export const SkillsInfo = [
   ];
   
   export const projects = [
-    {
-      id: 0,
-      title: "Ed-tech Platform",
-      description:
-        "Overview:EduConnect is a full-stack education platform designed to bridge the gap between students and educators. Built with a robust frontend and scalable backend, it enables students to seamlessly explore, purchase, and enroll in online courses, while offering educators a personalized dashboard to manage their content and reach a wider audience.Key Features:🧑‍🎓 Student Experience,👩‍🏫 Educator Dashboard,💳 Integrated Payments,🔐 Authentication System ,📱 Responsive Design",
-      image: studynotion,
-      tags: ["React JS", "Node.js", "MongoDB", "Express", "HTML", "CSS", "JavaScript"],
-      github: "",
-      webapp: "",
-    },
+    
     {
       id: 1,
       title: "An Freelancing Platform",
       description:"FreelanceHub is a full-featured freelancing platform designed to connect clients with talented freelancers across various domains. With dedicated user roles and intuitive workflows, the platform provides a seamless experience from job posting to project completion.Key Features:🧑‍💼 Client Portal,🧑‍🔧 Freelancer Dashboard ,🔐 User Authentication ,📨 Messaging System ,📱 Fully Responsive Design",
       image: freelancing,
       tags: ["React JS", "Node.js", "MongoDB", "Express", "HTML", "CSS", "JavaScript"],
-      github: "",
-      webapp: "",
+      github: "https://github.com/gaurav006002/Freelancing-Platform",
+      webapp: "https://work-free.netlify.app",
     },
     {
       id: 2,
@@ -233,8 +224,8 @@ export const SkillsInfo = [
       description:"SmartCart is a sleek and responsive shopping cart application built with React, HTML, and Tailwind CSS. It allows users to browse products, add their favorites to a cart, and review them for checkout—all with a smooth and modern UI.",
       image: Shoping,
       tags: ["React JS", "HTML", "CSS", "JavaScript"],
-      github: "",
-      webapp: "",
+      github: "https://github.com/gaurav006002/Shoping-App",
+      webapp: "https://shopinghapp.netlify.app",
     },
     {
       id: 3,
@@ -260,8 +251,18 @@ export const SkillsInfo = [
       description:"WeatherNow is a lightweight and responsive weather application that fetches and displays real-time weather data using a public Weather API. Users can search for any city and instantly get current weather conditions along with key details like temperature, humidity, and wind speed.",
       image: weatherapi,
       tags: ["HTML", "CSS", "JavaScript", "Api"],
-      github: "https://github.com/codingmastr/Webverse-Digital",
-      webapp: "https://webversedigital.com/",
+      github: "https://github.com/gaurav006002/Weather-Api",
+      webapp: "https://sparkling-tulumba-ff3c89.netlify.app",
+    },
+    {
+      id: 6,
+      title: "Ed-tech Platform",
+      description:
+        "Overview:Currently workin on Ed-Tech platform.EduConnect is a full-stack education platform designed to bridge the gap between students and educators. Built with a robust frontend and scalable backend, it enables students to seamlessly explore, purchase, and enroll in online courses, while offering educators a personalized dashboard to manage their content and reach a wider audience.",
+      image: studynotion,
+      tags: ["React JS", "Node.js", "MongoDB", "Express", "HTML", "CSS", "JavaScript"],
+      github: "",
+      webapp: "",
     },
     // {
     //   id: 6,
