@@ -2,7 +2,7 @@ import React from 'react';
 import { Typewriter } from 'react-simple-typewriter'
 
 import Tilt from 'react-parallax-tilt';
-import profileImage from '../../assets/picture/6C7A957B-F09F-460E-B09B-6548680C6518_1_105_c.jpeg';
+import profileImage from '../../assets/picture/ChatGPT Image Feb 2, 2026 at 11_47_13 PM.png';
 
 const About = () => {
   return (
